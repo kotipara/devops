@@ -1,0 +1,7 @@
+linux
+bigdata
+tomcat
+ubintu
+git hub
+git bash
+aws:
